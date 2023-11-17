@@ -1,0 +1,24 @@
+//sárga színezés//
+
+.et_pb_text_0 {
+    border-left-width: 5px;
+    border-left-color: #fdca25 !important;
+}
+
+
+body #page-container .et_pb_section .et_pb_button_0 {
+    background-color: #fdca25 !important;
+}
+
+.fluentform_wrapper_26.ffs_custom_wrap .ff-el-input--label label {
+    color: #fdca25 !important;
+}
+
+a {
+  color: #fdca25 !important;
+}
+
+form.fluent_form_26 .wpf_has_custom_css.ff-btn-submit {
+    background-color: fdca25 !important;
+    color: #FFFFFF;
+}
